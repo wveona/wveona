@@ -4,7 +4,8 @@
 </div>
 <div align=center>
 	<h3>Tech Stack</h3>
-	<p>📚 Currently Learning</p>
+ 	<p>✍️ Platforms & Languages</p>
+	
 </div>
 
 <div align="center">
