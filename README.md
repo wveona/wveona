@@ -16,6 +16,7 @@
 	<br>
  	<img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=white" />
   	<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=csharp&logoColor=white" />
+   	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
 	
 </div>
 
